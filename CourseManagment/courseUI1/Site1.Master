@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="courseUI1.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    
+</head>
+<body  style="background-image:url('Images/image5.jpeg')">
+    <form id="form1" runat="server">
+        
+       <div>
+         <center>
+                <h1 style="background-color:chartreuse;">COURSE MANAGMENT SYSTEM </h1>
+                <hr />
+        <div style="background-color:aliceblue;">
+            <asp:Label ID="LabUserLogin" runat="server" Text=""></asp:Label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+             <asp:LinkButton ID="LnkCourse" runat="server" OnClick="LnkCourse_Click">Course</asp:LinkButton>&nbsp;&nbsp;&nbsp;
+             <asp:LinkButton ID="Lnkteacher" runat="server" OnClick="Lnkteacher_Click">Teacher</asp:LinkButton>&nbsp;&nbsp;&nbsp;
+             <asp:LinkButton ID="LnkStudent" runat="server" OnClick="LnkStudent_Click">Student</asp:LinkButton>&nbsp;&nbsp;&nbsp;
+            <asp:LinkButton ID="LnkAdmin" runat="server" OnClick="LnkAdmin_Click">Admin</asp:LinkButton>&nbsp;&nbsp;&nbsp;
+             <asp:LinkButton ID="LnkLogout" runat="server" OnClick="LnkLogout_Click">Logout</asp:LinkButton>&nbsp;&nbsp;&nbsp;
+       </div> 
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+
+
+            </asp:ContentPlaceHolder>
+     </div>
+    </form>
+</body>
+</html>

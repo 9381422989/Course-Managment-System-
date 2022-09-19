@@ -1,0 +1,12 @@
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.businesslayer\bin\Debug\course.businesslayer.dll
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.businesslayer\bin\Debug\course.businesslayer.pdb
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.businesslayer\bin\Debug\course.datalayer.dll
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.businesslayer\bin\Debug\course.entites.dll
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.businesslayer\bin\Debug\course.datalayer.pdb
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.businesslayer\bin\Debug\course.datalayer.dll.config
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.businesslayer\bin\Debug\course.entites.pdb
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.businesslayer\obj\Debug\course.businesslayer.csproj.AssemblyReference.cache
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.businesslayer\obj\Debug\course.businesslayer.csproj.CoreCompileInputs.cache
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.businesslayer\obj\Debug\course.businesslayer.csproj.CopyComplete
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.businesslayer\obj\Debug\course.businesslayer.dll
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.businesslayer\obj\Debug\course.businesslayer.pdb

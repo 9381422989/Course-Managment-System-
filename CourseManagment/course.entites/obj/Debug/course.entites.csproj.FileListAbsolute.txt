@@ -1,0 +1,6 @@
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.entites\bin\Debug\course.entites.dll
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.entites\bin\Debug\course.entites.pdb
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.entites\obj\Debug\course.entites.csproj.AssemblyReference.cache
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.entites\obj\Debug\course.entites.csproj.CoreCompileInputs.cache
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.entites\obj\Debug\course.entites.dll
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.entites\obj\Debug\course.entites.pdb

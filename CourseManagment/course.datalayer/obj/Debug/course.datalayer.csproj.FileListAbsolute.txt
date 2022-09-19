@@ -1,0 +1,10 @@
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.datalayer\obj\Debug\course.datalayer.csproj.AssemblyReference.cache
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.datalayer\obj\Debug\course.datalayer.csproj.CoreCompileInputs.cache
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.datalayer\bin\Debug\course.datalayer.dll.config
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.datalayer\bin\Debug\course.datalayer.dll
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.datalayer\bin\Debug\course.datalayer.pdb
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.datalayer\bin\Debug\course.entites.dll
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.datalayer\bin\Debug\course.entites.pdb
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.datalayer\obj\Debug\course.datalayer.csproj.CopyComplete
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.datalayer\obj\Debug\course.datalayer.dll
+C:\Users\ganta\OneDrive\Documents\Virtusa-Codebase\course\course.datalayer\obj\Debug\course.datalayer.pdb
